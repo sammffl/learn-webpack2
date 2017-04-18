@@ -1,0 +1,29 @@
+{
+  "name": "learn-webpack2",
+  "version": "1.0.0",
+  "description": "webpack 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammffl/learn-webpack2.git"
+  },
+  "keywords": [
+    "webpack2"
+  ],
+  "author": "Sam.Shen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammffl/learn-webpack2/issues"
+  },
+  "homepage": "https://github.com/sammffl/learn-webpack2#readme",
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
